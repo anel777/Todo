@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-import 'package:test/main.dart';
+import 'package:Todo/main.dart';
 
 class TodoAdapter extends TypeAdapter<Todo> {
   @override
